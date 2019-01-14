@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Products>
+   <Product>
+      <id>1</id>
+      <name>IPad</name>
+      <price>700.0</price>
+      <description>Máy tính b&#7843;ng</description>
+   </Product>
+   <Product>
+      <id>2</id>
+      <name>IPod</name>
+      <price>100.0</price>
+      <description>Máy nghe nh&#7841;c</description>
+   </Product>
+   <Product>
+      <id>3</id>
+      <name>IPhone 6s</name>
+      <price>800.0</price>
+      <description>&#272;i&#7879;n tho&#7841;i cao c&#7845;p</description>
+   </Product>
+   <Product>
+      <id>4</id>
+      <name>IPhone 5</name>
+      <price>500.0</price>
+      <description>&#272;i&#7879;n tho&#7841;i trung c&#7845;p</description>
+   </Product>
+   <Product>
+      <id>5</id>
+      <name>IPhone 4</name>
+      <price>200.0</price>
+      <description>&#272;i&#7879;n tho&#7841;i t&#7847;m trung</description>
+   </Product>
+   <Product>
+      <id>6</id>
+      <name>Iphone X</name>
+      <price>2000.0</price>
+      <description>&#272;i&#7879;n tho&#7841;i cao c&#7845;p</description>
+   </Product>
+</Products>
